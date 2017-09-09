@@ -40,3 +40,6 @@ CTestTestfile.cmake
 *.exe
 *.out
 *.app
+
+#t1
+hello
